@@ -22,6 +22,8 @@ anymore, which is not desirable, as i.e. KODI also implements remote control
 capabilities in order to be able to control KODI with the remote that comes 
 with the HDMI  device.
 
+I documented the whole project [here](http://hardwarefetish.com/884-raspi4-with-touch-screen-as-living-room-media-center-with-tv-beamer-autoswitch)
+
 Requirements
 ============
 [CEC kernel support](https://docs.kernel.org/driver-api/media/cec-core.html)

@@ -97,7 +97,7 @@ int main(int argc, char **argv)
 
     if (access(argv[1], X_OK))
     {
-	fprintf (stderr, "Supplied script %s isn't executable/doesn't exist.\n");
+	fprintf (stderr, "Supplied script %s isn't executable/doesn't exist.\n", argv[1]);
 	return -1;
     }
 
